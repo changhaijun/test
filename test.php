@@ -1,3 +1,4 @@
 <?php
-	echo "hello world testing 3";
+	echo "hello world";
+	echo "<hr/>";
 ?>
